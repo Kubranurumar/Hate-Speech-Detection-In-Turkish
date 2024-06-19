@@ -1,0 +1,5 @@
+offenseval2020-turkish: https://huggingface.co/datasets/coltekin/offenseval2020_tr
+veri: https://github.com/tanyelai/lingda/tree/main
+TurkishHatePrintCorpus: https://github.com/boun-tabi/HateTargetBERT-TR/tree/main
+Türkçe Nefret Söylemi Veri Seti v1: https://github.com/imayda/turkish-hate-speech-dataset-1/tree/main
+labeled_data: https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master
